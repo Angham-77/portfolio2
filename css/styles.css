@@ -145,6 +145,7 @@ color: #ababab;
 }
 .about-col-2{
   flex-basis: 90%;
+    font-size: 30em;
 }
 .subtitle{
   font-size: 30px;
